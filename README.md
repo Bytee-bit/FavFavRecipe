@@ -1,4 +1,4 @@
-** Recipe App
+## Recipe App
 This app allow the user to:
 - search recipes
 - add recipe to fav list
